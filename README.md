@@ -1,5 +1,6 @@
 # Compose_Camp_2022_App
 
+App developed by Diptadip Mallik (GDSC IIT Patna Android Dev Lead 2022-23)
 
 ## Problem Statement:
 
